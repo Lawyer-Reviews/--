@@ -1,0 +1,6 @@
+[[structure]]
+name = "example"
+file = "images/example.png"
+startx = 1234 # x-coordinate
+starty = 5678 # y-coordinate
+priority = 2
